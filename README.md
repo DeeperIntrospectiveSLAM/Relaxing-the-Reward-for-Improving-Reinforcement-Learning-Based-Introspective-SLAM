@@ -3,6 +3,8 @@
 In this groundbreaking work, we reveal that the rewards used in current deep RL methods are overly rigid, stifling the agent's learning and resulting in inefficient routes. Our innovative, simpler reward system demands less exploration time, cultivates a tracking policy 2.5 times more robust, and achieves routes that are three times more efficient. We surpass numerous baselines across demanding routes that traverse multiple rooms, barren corridors, and sharp turns, setting a new standard in navigation.
 
 
+[![Watch the video]]([https://youtu.be/VQ5cSm4JBDY](https://drive.google.com/drive/u/0/folders/1Akn_OD9mNORnfO2MPfNUQBmn6D-bD9V-))
+
 
 Furthermore, we launched our training files for the research community to test our agent and reuse it for further improvements. 
 
